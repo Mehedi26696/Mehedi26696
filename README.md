@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm H.M. Mehedi Hasan... and I’m currently pursuing an undergraduate degree in Computer Science and Engineering at the University of Dhaka.</h2>
+<h2 align="left">Hi 👋! I'm H.M. Mehedi Hasan... and I’m currently pursuing my undergraduate degree in Computer Science and Engineering at the University of Dhaka.</h2>
 
 ###
 
