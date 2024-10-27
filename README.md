@@ -75,4 +75,8 @@
   </a>
 </div>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mehedi26696&show_icons=true&locale=en" alt="Mehedi26696" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mehedi26696&" alt="Mehedi26696" /></p>
+
 ###
