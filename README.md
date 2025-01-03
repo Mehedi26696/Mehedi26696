@@ -74,9 +74,11 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mehedi26696)](https://github.com/anuraghazra/github-readme-stats)
+ 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mehedi26696&show_icons=true&locale=en" alt="Mehedi26696" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mehedi26696&" alt="Mehedi26696" /></p>
+
+<p><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mehedi26696&" alt="Mehedi26696" /></p>
 
 ###
