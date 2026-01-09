@@ -38,6 +38,58 @@
 | **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) ![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apache-airflow) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
 
 </div>
+
+
+### Featured Projects
+
+**🔹 SyncroX — Real-Time Collaboration Platform**
+- **Tech Stack**: `Python`, `Streamlit`, `TCP/UDP`, `Docker`
+- **Link**: [GitHub Repository](https://github.com/Mehedi26696/SyncroX)
+- Real-time messaging, file transfer, and collaborative code editing.
+- Custom reliable UDP protocol implementing TCP Tahoe & Reno.
+- Secure Docker-based sandbox for isolated code execution.
+
+**🔹 MindMate — AI-Powered Mental Health Platform**
+- **Tech Stack**: `Next.js 15`, `FastAPI`, `Supabase`, `Redis`, `Gemini AI`, `Hugging Face`
+- **Link**: [GitHub Repository](https://github.com/Mehedi26696/MindMate)
+- AI-driven mood tracking and community wellness platform.
+- Context-aware chatbot with text + voice interaction.
+- Real-time AI safety & toxicity moderation pipeline.
+- Interactive analytics dashboards for mood trends.
+
+**🔹 VistaVoyage — Full-Stack Travel Booking System**
+- **Tech Stack**: `Next.js 15`, `FastAPI`, `PostgreSQL`, `TypeScript`, `Tailwind`, `shadcn/ui`
+- **Link**: [GitHub Repository](https://github.com/Mehedi26696/VistaVoyage)
+- Dual-role authentication (Admin/User) with secure booking flows.
+- Promo codes, package management, and real-time revenue analytics.
+- Admin dashboard with blogging and financial reporting.
+
+**🔹 VolunSphere — Volunteer Management & AI Assistant**
+- **Tech Stack**: `Flutter`, `FastAPI`, `PostgreSQL`, `Redis`, `WebSockets`, `FCM`, `Gemini AI`
+- **Link**: [GitHub Repository](https://github.com/Mehedi26696/VolunSphere)
+- Real-time chat, volunteer tracking, and gamified leaderboards.
+- AI Agent for automated event insights and volunteer assistance.
+- Scalable backend with Redis caching and push notifications.
+
+**🔹 Dhaka Traffic ETL & Analytics Dashboard**
+- **Tech Stack**: `Apache Airflow`, `Docker`, `PostgreSQL`, `Streamlit`, `Python`
+- **Link**: [GitHub Repository](https://github.com/Mehedi26696/Traffic-Dashboard)
+- Automated city-scale traffic ETL pipeline using Google Maps data.
+- Scheduled ingestion and transformation with Airflow.
+- Real-time dashboard with heatmaps and congestion trends.
+
+**🔹 Tool-Integrated LangGraph AI Agent**
+- **Tech Stack**: `LangGraph`, `Gemini AI`, `Streamlit`, `SQLite`, `LangSmith`
+- **Link**: [GitHub Repository](https://github.com/Mehedi26696/LangGraph-Agent)
+- Tool-using AI agent with task orchestration and response streaming.
+- Integrated weather, finance, and web-search APIs.
+- Persistent memory and full observability via LangSmith.
+
+**🔹 School Management System**
+- **Tech Stack**: `Java`, `Swing`, `MySQL`, `OOP`
+- **Link**: [GitHub Repository](https://github.com/Mehedi26696/School-Management-System)
+- End-to-end academic management system.
+- Authentication, attendance, fees, messaging, and administration.
  
 
 ### 📊 GitHub Analytics
