@@ -4,7 +4,7 @@
 
   <h3>🎓 Currently pursuing <b>B.Sc. in Computer Science & Engineering</b> at <b>University of Dhaka</b></h3>
   
-  <p><i>Engineering high-performance distributed systems and autonomous AI agents.</i></p>
+  <p><i>Engineering scalable backend systems, data pipelines, and ML-powered applications.</i></p>
 
   <br />
   
